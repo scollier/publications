@@ -1,2 +1,19 @@
 # publications
 # publications
+
+
+
+Certifications
+
+Red Hat
+
+
+Novell
+
+Microsoft
+
+CompTIA
+
+https://github.com/scollier/publications_certifications/blob/master/certifications/CompTIA_A_Plus.pdf[CompTIA A+]
+
+Papers
