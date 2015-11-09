@@ -2,17 +2,7 @@
 
 
 
-== Certifications
+=== https://github.com/scollier/publications_certifications/tree/master/certifications[Certifications]
 
-=== Red Hat
+=== https://github.com/scollier/publications_certifications/tree/master/papers[Papers]
 
-
-=== Novell
-
-=== Microsoft
-
-=== CompTIA
-
-https://github.com/scollier/publications_certifications/blob/master/certifications/CompTIA_A_Plus.pdf[CompTIA A+]
-
-== Papers
